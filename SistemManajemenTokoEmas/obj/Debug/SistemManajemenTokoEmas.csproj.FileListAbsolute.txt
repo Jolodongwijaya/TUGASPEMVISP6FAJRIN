@@ -1,0 +1,13 @@
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.Login.resources
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.Properties.Resources.resources
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\bin\Debug\SistemManajemenTokoEmas.exe.config
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\bin\Debug\SistemManajemenTokoEmas.exe
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\bin\Debug\SistemManajemenTokoEmas.pdb
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.exe
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.pdb
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.Customer.resources
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.Product.resources
+C:\Users\muham\source\repos\SistemManajemenTokoEmas\SistemManajemenTokoEmas\obj\Debug\SistemManajemenTokoEmas.Bill.resources
