@@ -1,6 +1,6 @@
 Berikut Tampilan Aplikasi saat dijalankan
 
-![Screenshot 2025-05-01 062437](https://github.com/user-attachments/assets/07086be1-992e-4fb0-92f4-6c6c2b9228c8)
-![Screenshot 2025-05-01 062201](https://github.com/user-attachments/assets/69a2d1f1-b6c4-472b-8b77-e8628e00d284)
-![Screenshot 2025-05-01 062228](https://github.com/user-attachments/assets/3a231762-08fe-4645-8ef6-fd8c2eea152a)
-![Screenshot 2025-05-01 062256](https://github.com/user-attachments/assets/2f3b2b38-d25f-43e5-8de4-1edb46b4ca23)
+![Screenshot 2025-05-02 142112](https://github.com/user-attachments/assets/8dce1f19-8760-406b-a12e-592bf7c103b7)
+![Screenshot 2025-05-02 142200](https://github.com/user-attachments/assets/f5e4b493-6d00-4558-b87b-1bf0c3c35bde)
+![Screenshot 2025-05-02 142226](https://github.com/user-attachments/assets/6f2417a2-3ecb-428a-9198-0ce37cec93c1)
+![Screenshot 2025-05-02 142300](https://github.com/user-attachments/assets/09b207f7-3f3e-47e7-a5a9-6d1c64e394c9)
